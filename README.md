@@ -1,4 +1,4 @@
-# Machine-Learning-with-Python
+# Classifier to predict whether a loan case will be paid off
 ## Final Assignment
 
 In this project a classifier is build to predict whether a loan case will be paid off or not.
